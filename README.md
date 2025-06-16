@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindu Banuka</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+<h3 align="center">A Software Engineer from Sri Lanka</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
