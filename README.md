@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Pasindu Banuka</h1>
-<h3 align="center">A Software Engineer from Sri Lanka</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00B8D4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pasindu+Banuka;I'm+a+passionate+Web+Developer;Crafting+Digital+Experiences;From+Concept+to+Code" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
+  A creative <strong>Web Developer</strong> from Sri Lanka 🇱🇰, dedicated to building and optimizing interactive, user-friendly, and feature-rich web applications.
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dkpbanuka&label=Profile%20views&color=0e75b6&style=flat" alt="dkpbanuka" /> 
   <a href="https://github.com/dkpbanuka?tab=followers"><img src="https://img.shields.io/github/followers/dkpbanuka?label=Followers&style=social" alt="GitHub followers"></a>
@@ -32,6 +34,8 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50"/> 
 </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
