@@ -1,91 +1,87 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=280&section=header&text=Pasindu%20Banuka&fontSize=80&fontAlign=50&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=60&descSize=25&animation=fadeIn&fontColor=ffffff" width="100%" />
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00B8D4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pasindu+Banuka;I'm+a+passionate+Web+Developer;Crafting+Digital+Experiences;From+Concept+to+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0575E6&background=00000000&center=true&vCenter=true&width=600&lines=Automating+Infrastructure+%E2%98%81%EF%B8%8F;Building+Scalable+Applications+%F0%9F%9A%80;Mastering+Kubernetes+%26+Docker+%F0%9F%90%B3;Crafting+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
-<p align="center">
-  A creative <strong>Web Developer</strong> from Sri Lanka 🇱🇰, dedicated to building and optimizing interactive, user-friendly, and feature-rich web applications.
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dkpbanuka&label=Profile%20views&color=0e75b6&style=flat" alt="dkpbanuka" /> 
-  <a href="https://github.com/dkpbanuka?tab=followers"><img src="https://img.shields.io/github/followers/dkpbanuka?label=Followers&style=social" alt="GitHub followers"></a>
-</p>
+<br />
 
+<div align="center">
+  <p>
+    🚀 <b>Undergraduate @ USJ 🇱🇰</b>. Transforming code into reliable, scalable infrastructure.<br>
+    Recently completed the <b>100 Days of DevOps</b> Challenge! 🏆
+  </p>
 
+  <a href="https://linkedin.com/in/pasindu-banuka-216b7133b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pasindubanuka155@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/dkpbanuka?tab=followers">
+    <img src="https://img.shields.io/github/followers/dkpbanuka?label=Followers&style=for-the-badge&color=2ea44f&logo=github" alt="Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=dkpbanuka&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
+</div>
 
----
+<br />
+<hr />
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkpbanuka&theme=dark&hide_border=true&background=0D1117" alt="dkpbanuka" />
-</p>
+<h3 align="center">☁️ DevOps & Cloud Native</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50" alt="linux" title="Linux" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" width="50" alt="aws" title="AWS" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" width="50" alt="azure" title="Microsoft Azure" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker" title="Docker" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" width="50" alt="kubernetes" title="Kubernetes" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" width="50" alt="terraform" title="Terraform" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="50" width="50" alt="ansible" title="Ansible" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="50" width="50" alt="jenkins" title="Jenkins" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="50" width="50" alt="grafana" title="Grafana" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="50" width="50" alt="prometheus" title="Prometheus" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="git" title="Git" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" width="50" alt="bash" title="Bash Scripting" style="margin: 10px" />
+</div>
 
----
+<br>
 
-### 🛠️ Languages and Tools
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50"/> 
-</a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
-</p>
+<h3 align="center">💻 Full Stack Development</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" alt="react" title="React JS" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="50" alt="nodejs" title="Node JS" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" width="50" alt="express" title="Express JS" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="50" alt="mongodb" title="MongoDB" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript" title="JavaScript" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript" title="TypeScript" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" width="50" alt="php" title="PHP" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="html" title="HTML5" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" alt="css" title="CSS3" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" width="50" alt="tailwind" title="Tailwind CSS" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="50" alt="bootstrap" title="Bootstrap" style="margin: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" alt="vscode" title="VS Code" style="margin: 10px" />
+</div>
 
----
+<br />
+<hr />
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkpbanuka&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="dkpbanuka" width="48%" />
-  
-</p>
+<h3 align="center">🐍 Contribution Activity</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DKPBanuka/DKPBanuka/output/github-snake-dark.svg" width="100%" alt="snake contribution" />
+</div>
 
----
+<br />
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/pasindu-banuka-216b7133b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pasindu Banuka" height="40" width="40" /></a>
-  <a href="https://fb.com/pasindu banuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Pasindu Banuka" height="40" width="40" /></a>
-  <a href="mailto:pasindubanuka155@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="40" width="40" /></a>
-</p>
+<h3 align="center">💭 Daily Inspiration</h3>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote">
+</div>
 
----
+<br />
 
-### 🎯 Currently Focusing On (DevOps Journey)
-<p align="center">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-CI/CD_Pipelines-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-  ![snake gif](https://github.com/DKPBanuka/DKPBanuka/blob/output/github-snake-dark.svg)
-
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=100&section=footer" alt="Footer">
+</div>
