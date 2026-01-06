@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=280&section=header&text=Pasindu%20Banuka&fontSize=80&fontAlign=50&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=60&descSize=25&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,100:172a45&height=300&section=header&text=Pasindu%20Banuka&fontSize=80&fontAlign=50&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=65&descSize=25&animation=fadeIn&fontColor=ffffff&font=Montserrat&stroke=000000&strokeWidth=1" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0575E6&background=00000000&center=true&vCenter=true&width=600&lines=Automating+Infrastructure+%E2%98%81%EF%B8%8F;Building+Scalable+Applications+%F0%9F%9A%80;Mastering+Kubernetes+%26+Docker+%F0%9F%90%B3;Crafting+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=4CC9F0&background=00000000&center=true&vCenter=true&width=600&lines=Automating+Infrastructure+%E2%98%81%EF%B8%8F;Building+Scalable+Applications+%F0%9F%9A%80;Mastering+Kubernetes+%26+Docker+%F0%9F%90%B3;Crafting+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,9 +23,9 @@
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/dkpbanuka?tab=followers">
-    <img src="https://img.shields.io/github/followers/dkpbanuka?label=Followers&style=for-the-badge&color=2ea44f&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/dkpbanuka?label=Followers&style=for-the-badge&color=0a192f&logo=github" alt="Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=dkpbanuka&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dkpbanuka&label=Profile%20Views&color=172a45&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br />
@@ -77,11 +77,11 @@
 
 <h3 align="center">💭 Daily Inspiration</h3>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote">
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=100&section=footer" alt="Footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:172a45,100:020c1b&height=100&section=footer" alt="Footer">
 </div>
